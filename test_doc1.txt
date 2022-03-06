@@ -1,1 +1,1 @@
-This is a sample1 git text file
+This is a sample1 git text file - 'MODIFIED FOR TEST1'
